@@ -34,10 +34,10 @@ const Home = () => {
                         </h1> </Fade>
                     <Fade bottom >
                         <div className="home-buttons">
-                            <a className="btn btn-hire " href="https://api.whatsapp.com/send?phone=9340762645" rel="no referrer" target="_blank">Hire Me</a>
+                            <a className="btn btn-hire " href="https://api.whatsapp.com/send?phone=9340762645" rel="no referrer noreferrer" target="_blank">Hire Me</a>
                             {/* <button className="btn btn-hire ">Hire Me</button> */}
                             <a className="btn btn-cv " href={Resume} download="updated resume naveen.pdf">My Resume</a>
-                            <a className="btn btn-github " href="https://github.com/mishra-naveen-dev" rel="no referrer" target="_blank" >GitHub</a>
+                            <a className="btn btn-github " href="https://github.com/mishra-naveen-dev" rel="no referrer noreferrer" target="_blank"  >GitHub</a>
                         </div>
                     </Fade>
                 </div>
