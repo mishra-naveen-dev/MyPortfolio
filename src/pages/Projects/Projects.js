@@ -2,7 +2,8 @@ import React from 'react'
 import './Projects.css'
 import img1 from '../../images/website_imge.png'
 import img2 from '../../images/project2.png'
-import img3 from '../../images/project3.png';
+import img3 from '../../images/project3.png'
+import img4 from '../../images/netflix_p.png';
 import Fade from 'react-reveal/Fade';
 
 const Projects = () => {
@@ -65,7 +66,7 @@ const Projects = () => {
                                         <h5 className="text-uppercase">
                                             Analog Clock With Current Time
                                         </h5>
-                                        <a className="ad-btn text-uppercase" href="https://naveenmishra14.github.io/AnalogClock_mini_Project/">View</a>
+                                        <a className="ad-btn text-uppercase" href="https://mishra-naveen-dev.github.io/analog_clock/" target="_blank">View</a>
                                     </div>
                                 </div>
                             </div>
@@ -92,7 +93,35 @@ const Projects = () => {
                                         <h5 className="text-uppercase">
                                             Login & Resgistration Form
                                         </h5>
-                                        <a className="ad-btn text-uppercase" href="https://naveenmishra14.github.io/Login_Registration-Page/">View</a>
+                                        <a className="ad-btn text-uppercase" href="https://mishra-naveen-dev.github.io/Login-registration-page/?%23=&%23=&%23=" target="_blank">View</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </Fade>
+
+                    {/* project4 */}
+                    <Fade left>
+                        <div className="col-md-4">
+                            <div className="card rounded">
+                                <div className="card-image">
+                                    <span className="card-notify-badge">Netflix Clone Project</span>
+                                    <img src={img4} alt="netflix_p" />
+
+                                </div>
+                                <div className="card-image-overly m-auto mt-3">
+                                    <span className="card-detail-badge">HTML</span>
+                                    <span className="card-detail-badge">CSS</span>
+                                    <span className="card-detail-badge">JavaScript</span>
+
+                                </div>
+                                <div className="card-body text-center">
+                                    <div className="ad-title m-auto">
+                                        <h5 className="text-uppercase">
+                                            Netflix Clone Project
+                                        </h5>
+                                        <a className="ad-btn text-uppercase" href="https://mishra-naveen-dev.github.io/Netflix_Clone/" target="_blank">View</a>
                                     </div>
                                 </div>
                             </div>
