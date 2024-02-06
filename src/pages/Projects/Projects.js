@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react'
 import './Projects.css'
 import img1 from '../../images/website_imge.png'
@@ -39,7 +40,7 @@ const Projects = () => {
                                         <h5 className="text-uppercase">
                                             My Portfolio WebApp
                                         </h5>
-                                        <a className="ad-btn text-uppercase" href="#">View</a>
+                                        <a className="ad-btn text-uppercase" href="#" >View</a>
                                     </div>
                                 </div>
                             </div>
@@ -66,7 +67,7 @@ const Projects = () => {
                                         <h5 className="text-uppercase">
                                             Analog Clock With Current Time
                                         </h5>
-                                        <a className="ad-btn text-uppercase" href="https://mishra-naveen-dev.github.io/analog_clock/" target="_blank">View</a>
+                                        <a className="ad-btn text-uppercase" href="https://mishra-naveen-dev.github.io/analog_clock/" target="_blank" rel="noreferrer" >View</a>
                                     </div>
                                 </div>
                             </div>
@@ -93,7 +94,7 @@ const Projects = () => {
                                         <h5 className="text-uppercase">
                                             Login & Resgistration Form
                                         </h5>
-                                        <a className="ad-btn text-uppercase" href="https://mishra-naveen-dev.github.io/Login-registration-page/?%23=&%23=&%23=" target="_blank">View</a>
+                                        <a className="ad-btn text-uppercase" href="https://mishra-naveen-dev.github.io/Login-registration-page/?%23=&%23=&%23=" target="_blank" rel="noreferrer" >View</a>
                                     </div>
                                 </div>
                             </div>
@@ -121,7 +122,7 @@ const Projects = () => {
                                         <h5 className="text-uppercase">
                                             Netflix Clone Project
                                         </h5>
-                                        <a className="ad-btn text-uppercase" href="https://mishra-naveen-dev.github.io/Netflix_Clone/" target="_blank">View</a>
+                                        <a className="ad-btn text-uppercase" href="https://mishra-naveen-dev.github.io/Netflix_Clone/" target="_blank" rel="noreferrer" >View</a>
                                     </div>
                                 </div>
                             </div>
