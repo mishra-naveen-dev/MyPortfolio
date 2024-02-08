@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import img1 from '../../images/naveen_proflie_pic.png'
+import img1 from '../../images/naveenpp2.jpg'
 import Jump from 'react-reveal/Jump';
 
 const About = () => {
