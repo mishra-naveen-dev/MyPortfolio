@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.d2ed5fff.css",
-    "main.js": "/MyPortfolio/static/js/main.8838b5a7.js",
+    "main.js": "/MyPortfolio/static/js/main.6fa824b1.js",
     "static/js/787.d5fa4d18.chunk.js": "/MyPortfolio/static/js/787.d5fa4d18.chunk.js",
     "static/media/netflix_p.png": "/MyPortfolio/static/media/netflix_p.474a89827b703fa2f96a.png",
     "static/media/project3.png": "/MyPortfolio/static/media/project3.0cae3ac48fb2182e5770.png",
-    "static/media/proflie_pic.jpg": "/MyPortfolio/static/media/proflie_pic.666336f03fa987c4103f.jpg",
     "static/media/website_imge.png": "/MyPortfolio/static/media/website_imge.9bfbcb5dc18c253103e4.png",
     "static/media/updated resume naveen.pdf": "/MyPortfolio/static/media/updated resume naveen.c86c322b784017d5ba5f.pdf",
     "static/media/naveen_proflie_pic.png": "/MyPortfolio/static/media/naveen_proflie_pic.f698e7dc48f68177e65c.png",
     "static/media/contactme.jpg": "/MyPortfolio/static/media/contactme.a2380c17276006854ba9.jpg",
     "static/media/project2.png": "/MyPortfolio/static/media/project2.aa837afd92b53abeff0b.png",
+    "static/media/naveenpp2.jpg": "/MyPortfolio/static/media/naveenpp2.6eecb3ac00a07d932fce.jpg",
     "index.html": "/MyPortfolio/index.html",
     "main.d2ed5fff.css.map": "/MyPortfolio/static/css/main.d2ed5fff.css.map",
-    "main.8838b5a7.js.map": "/MyPortfolio/static/js/main.8838b5a7.js.map",
+    "main.6fa824b1.js.map": "/MyPortfolio/static/js/main.6fa824b1.js.map",
     "787.d5fa4d18.chunk.js.map": "/MyPortfolio/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2ed5fff.css",
-    "static/js/main.8838b5a7.js"
+    "static/js/main.6fa824b1.js"
   ]
 }
