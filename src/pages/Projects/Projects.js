@@ -5,6 +5,7 @@ import img1 from '../../images/website_imge.png'
 import img2 from '../../images/project2.png'
 import img3 from '../../images/project3.png'
 import img4 from '../../images/netflix_p.png';
+import img5 from '../../images/Tic-Tac-Toe.png';
 import Fade from 'react-reveal/Fade';
 
 const Projects = () => {
@@ -123,6 +124,34 @@ const Projects = () => {
                                             Netflix Clone Project
                                         </h5>
                                         <a className="ad-btn text-uppercase" href="https://mishra-naveen-dev.github.io/Netflix_Clone/" target="_blank" rel="noreferrer" >View</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </Fade>
+
+                    {/* project5 */}
+                    <Fade left>
+                        <div className="col-md-4">
+                            <div className="card rounded">
+                                <div className="card-image">
+                                    <span className="card-notify-badge">Tic-Tac-Toe-game</span>
+                                    <img src={img5} alt="Tic-Tac-Toe-game0" />
+
+                                </div>
+                                <div className="card-image-overly m-auto mt-3">
+                                    <span className="card-detail-badge">HTML</span>
+                                    <span className="card-detail-badge">CSS</span>
+                                    <span className="card-detail-badge">JavaScript</span>
+
+                                </div>
+                                <div className="card-body text-center">
+                                    <div className="ad-title m-auto">
+                                        <h5 className="text-uppercase">
+                                            Tic-Tac-Toe-game
+                                        </h5>
+                                        <a className="ad-btn text-uppercase" href="https://mishra-naveen-dev.github.io/Tic-Tac-Toe-game-/" target="_blank" rel="noreferrer" >View</a>
                                     </div>
                                 </div>
                             </div>
